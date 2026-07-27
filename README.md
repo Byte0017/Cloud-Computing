@@ -2039,3 +2039,82 @@
 - Azure Site Recovery
 ---
 ## 📚 Recommended Certification Path
+---
+## 📊 Study Timeline Recommendation
+| Week | Daily Focus | Hours/Day |
+|------|------------|-----------|
+| Week 1 | Linux + Cloud Overview + Networking | 8 hours |
+| Week 2 | Firewall + Containers + ITIL | 8 hours |
+| Week 3 | AWS EC2, S3, IAM, VPC, RDS, Route53 | 8 hours |
+| Week 4 | AWS Lambda, DynamoDB, CloudFormation, Monitoring | 8 hours |
+| Week 5 | Azure Identity, Governance, Networking, VMs | 8 hours |
+| Week 6 | Azure PaaS, Backup, DR, DevOps, MicroServices | 8 hours |
+| Week 7-8 | Induction Program | - |
+| Week 9-11 | Shadow/OJT + Certification Prep | 2-3 hrs extra |
+---
+## ✅ Master Checklist
+### Foundation Modules (Week 1-2)
+- [ ] MODULE 1: Linux Fundamentals
+- [ ] MODULE 2: Cloud Overview
+- [ ] MODULE 3: Networking Fundamentals
+- [ ] MODULE 4: Firewall, Load Balancer, Routing & Proxy
+- [ ] MODULE 5: Containers & Kubernetes
+- [ ] MODULE 6: ITIL Concepts
+### AWS Modules (Week 3-4)
+- [ ] MODULE 7: AWS EC2 & Cloud Computing
+- [ ] MODULE 8: S3 & IAM
+- [ ] MODULE 9: VPC
+- [ ] MODULE 10: RDS
+- [ ] MODULE 11: Route 53
+- [ ] MODULE 12: Lambda & Serverless
+- [ ] MODULE 13: DynamoDB & CloudFront
+- [ ] MODULE 14: CloudFormation & Security
+- [ ] MODULE 15: Monitoring & Management
+- [ ] MODULE 16: AWS Capstone Project
+### Azure Modules (Week 5-6)
+- [ ] MODULE 17: Entra ID & Identity
+- [ ] MODULE 18: Governance & Compliance
+- [ ] MODULE 19: Azure Resources
+- [ ] MODULE 20: Virtual Networking
+- [ ] MODULE 21: Intersite Connectivity
+- [ ] MODULE 22: Network Traffic
+- [ ] MODULE 23: Azure Storage
+- [ ] MODULE 24: Azure VMs
+- [ ] MODULE 25: PaaS Compute
+- [ ] MODULE 26: Container Apps & Data Protection
+- [ ] MODULE 27: Site Recovery & Monitoring
+- [ ] MODULE 28: Azure Alerts
+- [ ] MODULE 29: Microservices
+- [ ] MODULE 30: DevOps
+- [ ] MODULE 31: Azure Capstone Project
+### Certifications
+- [ ] AWS SOA-C02 Cleared
+- [ ] AZ-104 Cleared
+---
+## 🛠️ Tools & Resources Summary
+| Resource | Link | Purpose |
+|----------|------|---------|
+| Linux Course (Udemy) | https://ibm-learning.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/ | Linux Fundamentals |
+| RHEL Training | https://yourlearning.ibm.com/activity/SMT-3862 | Red Hat Linux |
+| Cloud Lab Credits | https://w3.ibm.com/w3publisher/cloud-lab-request-aws-azure-google | $10 AWS/Azure/GCP |
+| AWS Free Tier | https://aws.amazon.com/free | AWS Practice |
+| Azure Free Account | https://azure.microsoft.com/free | Azure Practice |
+| AWS Documentation | https://docs.aws.amazon.com | AWS Reference |
+| Azure Documentation | https://docs.microsoft.com/azure | Azure Reference |
+| AWS Skill Builder | https://skillbuilder.aws | AWS Exam Prep |
+| Microsoft Learn | https://learn.microsoft.com | Azure Exam Prep |
+---
+## 💡 Pro Tips
+> 1. **Always do hands-on labs** after each module
+> 2. **Use the $10 sandbox credits wisely** - plan before you deploy
+> 3. **Take notes during shadow/OJT** on real-world scenarios
+> 4. **Practice KQL queries daily** during Azure week
+> 5. **Revise ITIL concepts regularly** - they appear in real work
+> 6. **Join AWS/Azure community forums** for exam tips
+> 7. **Use AWS Skill Builder and Microsoft Learn** for free practice tests
+> 8. **Attempt mock exams** at least 2 weeks before actual exam
+> 9. **Review weak areas** from mock exam results
+> 10. **Document your hands-on work** for future reference
+---
+*End of Complete Study Plan - All 31 Modules*
+*Total Duration: 30 Training Days | Target: AWS SOA-C02 + AZ-104*
